@@ -1,0 +1,54 @@
+.intro
+{
+    background-color:#F3F4ED;
+    padding-top:100px;
+    text-align: center;
+}
+
+.skills{
+background-color:#536162;
+  text-align: center;
+  border-bottom: 0;
+  padding: 10px;
+}
+
+.skills1{
+color: #F3F4ED;
+}
+
+.img-skills{
+  width:200px;
+  height:200px;
+
+}
+
+.bottom-container{
+  background-color:#C06014;
+  margin-top:0;
+  text-align: center;
+  padding: 10px;
+}
+
+.cloud{
+  position:absolute;
+
+}
+
+.name{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 90px;
+}
+
+
+
+body{
+  display: block;
+  margin: 0;
+  font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+.cloud-top{
+  position:absolute;
+  margin-left: 200px;
+}
